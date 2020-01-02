@@ -31,6 +31,9 @@ import argparse
 import numpy as np
 from contextlib import contextmanager
 
+from datetime import datetime
+from plot import plot_alignment
+
 import torch
 from torch.utils.data import DataLoader
 from torch.autograd import Variable
@@ -55,6 +58,9 @@ from apex import amp
 amp.lists.functional_overrides.FP32_FUNCS.remove('softmax')
 amp.lists.functional_overrides.FP16_FUNCS.append('softmax')
 
+
+from torch.utils.tensorboard import SummaryWriter
+writer = SummaryWriter("./training_graph")
 
 def parse_args(parser):
     """
@@ -114,13 +120,13 @@ def parse_args(parser):
     dataset.add_argument('--load-mel-from-disk', action='store_true',
                          help='Loads mel spectrograms from disk instead of computing them on the fly')
     dataset.add_argument('--training-files',
-                         default='filelists/ljs_audio_text_train_filelist.txt',
+                         default='filelists/bznsyp_audio_text_train_filelist.txt',
                          type=str, help='Path to training filelist')
     dataset.add_argument('--validation-files',
-                         default='filelists/ljs_audio_text_val_filelist.txt',
+                         default='filelists/bznsyp_audio_text_val_filelist.txt',
                          type=str, help='Path to validation filelist')
     dataset.add_argument('--text-cleaners', nargs='*',
-                         default=['english_cleaners'], type=str,
+                         default=['transliteration_cleaners'], type=str,
                          help='Type of text cleaners for input text')
 
     # audio parameters
@@ -245,7 +251,7 @@ def validate(model, criterion, valset, iteration, batch_size, world_size,
             val_loss += reduced_val_loss
         val_loss = val_loss / (i + 1)
 
-    LOGGER.log(key="val_iter_loss", value=val_loss)
+    LOGGER.log(key="val_iter_loss", value=reduced_val_loss)
 
 
 def adjust_learning_rate(epoch, optimizer, learning_rate,
@@ -409,6 +415,9 @@ def main():
 
             model.zero_grad()
             x, y, num_items = batch_to_gpu(batch)
+            # x, y, num_items = batch
+            # x = (x, y)
+            # num_items = torch.sum(num_items)
 
             y_pred = model(x)
             loss = criterion(y_pred, y)
@@ -456,6 +465,7 @@ def main():
             LOGGER.log(key="iter_time", value=iter_time)
             LOGGER.iteration_stop()
 
+
         LOGGER.log(key=tags.TRAIN_EPOCH_STOP, value=epoch)
         epoch_stop_time = time.time()
         epoch_time = epoch_stop_time - epoch_start_time
@@ -482,7 +492,18 @@ def main():
             save_checkpoint(model, optimizer, epoch, model_config,
                             args.amp_run, checkpoint_path)
 
+
+        # Plot alignemnt
+        if epoch % 1 == 0 and args.rank == 0:
+            alignments = y_pred[3].data.numpy()
+            index = np.random.randint(len(alignments))
+            plot_alignment(alignments[index].transpose(0, 1), # [enc_step, dec_step]
+                           os.path.join(args.output_directory, f"align_{epoch:04d}_{iteration}.png"),
+                           info=f"{datetime.now().strftime('%Y-%m-%d %H:%M')} Epoch={epoch:04d} Iteration={iteration} Average loss={train_epoch_avg_loss/num_iters:.5f}")
         LOGGER.epoch_stop()
+
+        writer.add_scalar('Train/Loss', (train_epoch_avg_loss/num_iters if num_iters > 0 else 0.0), epoch)
+        writer.flush()
 
     run_stop_time = time.time()
     run_time = run_stop_time - run_start_time
@@ -495,6 +516,8 @@ def main():
 
     if args.rank == 0:
         LOGGER.finish()
+
+    writer.close()
 
 
 if __name__ == '__main__':

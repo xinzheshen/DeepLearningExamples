@@ -38,6 +38,8 @@ import time
 from dllogger.logger import LOGGER
 import dllogger.logger as dllg
 from dllogger.autologging import log_hardware, log_args
+import audio_util
+import os
 
 from apex import amp
 
@@ -157,8 +159,7 @@ def prepare_input_sequence(texts):
 
     d = []
     for i,text in enumerate(texts):
-        d.append(torch.IntTensor(
-            text_to_sequence(text, ['english_cleaners'])[:]))
+        d.append(torch.IntTensor(text_to_sequence(text, ['english_cleaners'])[:]))
 
     text_padded, input_lengths = pad_sequences(d)
     if torch.cuda.is_available():
@@ -270,6 +271,14 @@ def main():
 
     LOGGER.iteration_stop()
     LOGGER.finish()
+
+    # # recover to the original order and concatenate
+    # # ids_sorted_decreasing = ids_sorted_decreasing.numpy().tolist()
+    # mels = [m[:, :length].cpu() for m, length in zip(mel, mel_lengths)]
+    # # mels = [mels[ids_sorted_decreasing.index(i)] for i in range(len(ids_sorted_decreasing))]
+    # wav = audio_util.inv_mel_spectrogram(np.concatenate(mels, axis=-1))
+    # audio_util.save_wav(wav, os.path.join(args.output, 'eval.wav'))
+    # # np.save(os.path.join(args.output, 'eval_mel.npy'), np.concatenate(mels, axis=-1), allow_pickle=False)
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,202 @@
+BZNSYP/mels/000049.pt|quan3 bi4 xu1 shuan1 yang3 huo4 juan4 yang3
+BZNSYP/mels/000098.pt|qin2 mou3 yong4 lian3 pen2 yao2 shui3 jiang1 huo3 pu1 mie4
+BZNSYP/mels/000147.pt|hua1 duo2 ti2 yin3 fa1 wang2 you3 re4 yi4 xiao4 fang3
+BZNSYP/mels/000196.pt|lao3 wang2 bian1 ken3 shao1 bing3 bian1 shuo1
+BZNSYP/mels/000245.pt|er2 bu4 fen5 wang3 min2 ye3 le4 yu2 wei2 guan1 qi3 hong4
+BZNSYP/mels/000294.pt|qi2 yu2 de5 shi4 ban1 xiong1 cao3 que4 he2 feng1 niao3 deng2 zhong3 lei4
+BZNSYP/mels/000343.pt|mang2 mang3 xiang1 ye3 wan4 shui3 qian1 shan1 keng1 qiang1 cheng2 nuo4
+BZNSYP/mels/000392.pt|wu3 chi2 cui3 can4 yue4 sheng1 huan1 kuai4 guang1 ying3 jiao1 cuo4
+BZNSYP/mels/000441.pt|dang1 shi2 zhe4 sou1 you2 lun2 zheng4 xiang4 yi4 sou1 nuo2 wei1 huo4 lun2 chuan2 song4 you2 liao4
+BZNSYP/mels/000490.pt|hou4 you4 you3 san1 huo3 jie2 fei3 cuan1 shang4 lie4 che1 kai1 shi2 qiang3 jie2
+BZNSYP/mels/000539.pt|ke3 neng2 ye3 jiu4 xie3 le5 gei3 yu4 you3 ting1 ting1 chang4 chang4
+BZNSYP/mels/000588.pt|shang4 sha2 bie2 shang4 dian4 shi4 re3 shui2 bie2 re3 fang1 zhou1 zi3
+BZNSYP/mels/000637.pt|wo3 yue1 ta1 qu4 kan4 gou2 zhan3
+BZNSYP/mels/000686.pt|jing3 cha2 zheng4 zai4 yong4 jing3 gun4 yin3 you4 she2 chu1 lai5
+BZNSYP/mels/000735.pt|bu2 guo4 geng1 huan4 lun2 tai1 chi3 cun4 ye2 you2 yin3 huan4
+BZNSYP/mels/000784.pt|xuan2 shou3 fu1 fu4 tang1 ni2 tang2
+BZNSYP/mels/000833.pt|mei2 you3 lou4 chu1 jiu3 wo1 chong2 xiao4 yi2 ci4
+BZNSYP/mels/000882.pt|zhe4 zai4 zheng4 ce4 yun2 xu3 fan4 wei2
+BZNSYP/mels/000931.pt|tu2 nuan3 qi4 yong4 lai2 gong1 re4 ye3 yong4 lai2 zuo4 fan4
+BZNSYP/mels/000980.pt|sen1 ben2 min3 zai4 hui4 tan2 zhong1 jin2 biao3 shi4 jiang1 ren4 zhen1 dui4 dai4 jue2 yi4
+BZNSYP/mels/001029.pt|yu2 chao1 jue2 de5 mo4 ming2 qi2 miao4 wen4 gai1 nan2 zi3 wei4 he2 lan2 che1
+BZNSYP/mels/001078.pt|ke1 te4 di2 wa3 jiang1 yu2 xia4 yue4 ju3 xing2 da4 xuan3
+BZNSYP/mels/001127.pt|ru2 guo2 gan3 shang4 fan4 dianr3 hui4 song4 he2 fan4 yi2 fen4 ji2 wu3 liu4 zhong3 yin2 pin3
+BZNSYP/mels/001176.pt|na4 jiang1 you3 shang4 qian1 du4 gao1 wen1 huo3 hong2 gun3 tang4 de5 huo3 jiang1 man3 di4 liu2 tang3 ba2 ni3 jing1 dai1
+BZNSYP/mels/001225.pt|yin1 jia1 jing4 pin2 han2 wu2 bi4 hong2 hen2 zao3 chuo4 xue2
+BZNSYP/mels/001274.pt|er2 zhe4 xie1 jia4 shi3 yuan2 dou1 fei1 che1 zhu3 quan2 bu4 you2 zhuan1 ye4 chuang2 gang3 si1 ji1 lai2 wan2 cheng2
+BZNSYP/mels/001323.pt|ta1 men5 tian1 sheng1 ai4 dong4 mian3 bu4 liao3 da2 da3 nao4 nao4
+BZNSYP/mels/001372.pt|kao3 sheng1 chang2 qu1 jie3 wen2 yan2 wen2 you4 cu1 xin1 da4 yi4 hun4 xiao2 shi4 jian4 qing2 jie2
+BZNSYP/mels/001421.pt|chi1 li2 ke2 yi3 zi1 run4 hou2 long5 cu4 jin4 shi2 yu4 ne5
+BZNSYP/mels/001470.pt|si4 bai3 kuai4 qian2 bu4 hua1 zhe4 si4 bai3 ni3 yong2 yuan3 gua4 bu2 shang4 hao4
+BZNSYP/mels/001519.pt|dui4 yu2 wang3 shi4 liu2 yun3 bing4 bu2 zai4 yi4
+BZNSYP/mels/001568.pt|ni3 bu4 bang1 wo3 shui2 bang1 wo3 ya5
+BZNSYP/mels/001617.pt|fen1 san4 si1 ji1 zhu4 yi4 li4 wa5
+BZNSYP/mels/001666.pt|yuan2 ben3 yang2 shu4 peng2 xiang3 rang4 wo2 yan3 zhang1 yi4 na4 ge5 jue2 se4 dan4 wo3 zi4 ji3 ti2 chu1 xiang2 yan3 fei2 shou3
+BZNSYP/mels/001715.pt|guo4 yi2 huir4 liang2 zhe3 tong2 shi2 bing4 fa1 ta1 ao4 nao3 de5 chou2 xu4 jiu1 jie2 xin1 huang1 yi4 luan4
+BZNSYP/mels/001764.pt|hang2 zhou1 de5 fang2 di4 chan3 ye3 tong2 yang4 re4 nao4
+BZNSYP/mels/001813.pt|wo3 guo2 de5 bing1 xue3 yun4 dong4 qi3 bu4 wan3 shui2 zhun3 di1
+BZNSYP/mels/001862.pt|zhi3 hui1 yuan2 xun4 su4 lian2 xi4 wa1 jue2 ji1 ban1 yi2 guo4 huo3 mian2 hua1 bao1
+BZNSYP/mels/001911.pt|dan4 ru2 jin1 gu3 cheng2 qiang2 que4 bei4 bo1 le5 pi2 zao2 cheng2 yao2 dong4 cheng2 zhuan1 ye3 bei4 lei3 cheng2 zhu1 wo1
+BZNSYP/mels/001960.pt|ying3 yuan4 pin2 jiu3 he2 peng1 ren4 ban1 jin3 sui2 qi2 hou4
+BZNSYP/mels/002009.pt|ci3 shi2 feng2 wei3 zheng4 qiao2 qing3 le5 bing4 jia4 zai4 shen1 zhen4 tan4 wang4 fu4 mu3
+BZNSYP/mels/002058.pt|deng2 wo3 man4 man4 yong4 xin1 ling2 qu4 gan3 shou4 yi2 xia4 xian1
+BZNSYP/mels/002107.pt|zhong1 guo2 zang4 ge1 hui4 qi3 dong4 wan3 hui4 ke3 wei4 shi4 qun2 xing1 cui3 can4
+BZNSYP/mels/002156.pt|zhe4 yi2 ye4 wu2 meng4 shui4 mian2 an1 wen3 de5 fang3 fu2 hang2 xing2 zai4 bei4 mai4 zhe2 lun2 guan4 ming2 shi2 de5 tai4 ping2 yang2 shang4
+BZNSYP/mels/002205.pt|dang4 wan3 xu2 zhou1 bei3 qu1 yi4 xiao3 qu1 nei4 shi2 na4 na5 luo4 wang3 qi2 zhang4 fu5 zhang1 qing4 bei4 zhua1 bu3 gui1 an4
+BZNSYP/mels/002254.pt|yu3 hua1 tai2 qu1 ji4 wei3 zuo2 xiang4 ji4 zhe2 biao3 shi4 yi3 jing1 zhan3 kai1 diao4 cha2
+BZNSYP/mels/002303.pt|zai4 lu4 yong4 gan4 bu4 shi2 yao4 an4 zhao4 de2 cai2 jian1 bei4 de5 biao1 zhun3 ze2 you1 lu4 yong4
+BZNSYP/mels/002352.pt|ju3 tou2 wang4 ming2 yue4 di1 tou2 si1 gu4 xiang1 zhe4 shi4 tang2 chao2 shi1 ren2 li3 bai2 de5 shi1 o5
+BZNSYP/mels/002401.pt|wen2 tuo3 kuo4 da4 fu2 wu4 ye4 kai1 fang4
+BZNSYP/mels/002450.pt|can1 mou2 wang2 cun2 bao2 jiang3 zhe4 ji3 tian1 wu2 jing3 guan1 bing1 reng2 ran2 lian2 ye4 zhan3 kai1 sou1 suo3
+BZNSYP/mels/002499.pt|wang2 tie3 hen3 kuai4 jiu4 yin2 qi3 le5 zhong4 duo1 wang2 you3 guan1 zhu4 he2 zhuan2 zai3
+BZNSYP/mels/002548.pt|chu3 jiang1 hu2 zhi1 yuan3 you1 qi2 jun1 tie3 ji4 mang2 mang3 jue2 sheng4 qian1 li3 jiu4 min2 dao4 xuan2
+BZNSYP/mels/002597.pt|ta1 zhao3 dao4 gu4 yong1 ta1 de5 cha2 ye4 zhuan1 gui4 de5 dian4 zhang3 ken2 qing3 neng2 na2 hui2 jian4 kang1 zheng4
+BZNSYP/mels/002646.pt|jin4 zhi2 yi3 wai1 qu1 bian2 sun2 deng3 fang1 shi4 shi3 yong4 fei1 wu4 zhi4 wen2 hua4 yi2 chan3
+BZNSYP/mels/002695.pt|hen3 duo1 xiao1 fei4 zhe3 zai4 zu1 fang2 de5 shi2 hou4 wang2 wang3 chi1 ya3 ba5 kui1
+BZNSYP/mels/002744.pt|xiao3 ze2 ma3 li4 ya4 bu4 gan1 shi4 ruo4 ting3 xiong1 jue1 pi4 gu5 lian2 huan2 chu1 zhao1
+BZNSYP/mels/002793.pt|chen2 jiong3 dang1 ji2 qi3 dong4 ai4 xin1 ji1 jin1 song4 nv3 hai2 hui2 jia1
+BZNSYP/mels/002842.pt|kuai4 qu4 zhao3 zhang1 dian4 re4 tan3
+BZNSYP/mels/002891.pt|yi3 ta1 de5 yan3 guang1 shui2 fu4 shui2 neng2 nai4 shui2 qiong2 shui2 wo1 nang5
+BZNSYP/mels/002940.pt|wei4 neng2 shi2 xian4 he2 tong5 nei4 rong2 yao1 qiu2 de5 ying1 zhua1 jin3 jin4 xing2 wan2 shan4
+BZNSYP/mels/002989.pt|zai4 zhen3 tou5 pang2 bian1 fang4 shi2 ke4 zuo3 you4 qie1 cheng2 si1 de5 sheng1 jiang1 jiu4 neng2 cui1 ren2 ru4 mian2
+BZNSYP/mels/003038.pt|ge4 lai2 yue4 de5 bao3 bao5 kai1 shi3 qiao4 pi2 la5
+BZNSYP/mels/003087.pt|ta1 mu4 qian2 sui1 xu1 yi1 liao2 ren2 yuan2 zhao4 gu5 dan4 shen1 ti3 reng2 ran2 ying4 lang3
+BZNSYP/mels/003136.pt|da4 ye5 xiao3 ming2 mian2 tian3 de5 shuo1 wo3 shi4 wu2 suo3 wei4 neng2 bu4 neng2 gei2 ni3 da4 ma1 xiao3 hua1 liu2 tiao2 ku4 cha3
+BZNSYP/mels/003185.pt|lun2 tai1 ma3 shang4 lou4 qi4 bie3 le5 xia4 qu4
+BZNSYP/mels/003234.pt|ta1 zui2 li3 de5 wo3 er2 shuo1 de5 shi4 gu1 ye5
+BZNSYP/mels/003283.pt|zhe4 jiu4 shi4 wen2 ming2 yu2 shi4 de5 ba1 kuo4 jie1 tang2 ka3 ma5
+BZNSYP/mels/003332.pt|yong4 tian1 jin1 hua4 shuo1 jiu4 shi4 dou1 li3 chuai1 fu4 pai2 dai3 shui2 gen1 shui2 lai2
+BZNSYP/mels/003381.pt|chu2 fang2 de5 yi2 shan4 men2 yi3 jing1 xiu3 lan4
+BZNSYP/mels/003430.pt|zui4 chang2 jian4 de5 jiu4 shi4 ke4 you3 fo2 jiao4 liu4 zi4 zhen1 yan2 o1 ma1 ni1 ba1 mei1 hong1 de5 shi2 kuai4
+BZNSYP/mels/003479.pt|xiao3 bing1 wo3 tong4 ku3 de5 wu3 zhu4 le5 lian3
+BZNSYP/mels/003528.pt|nin2 ye3 ke2 yi3 bao4 ming2 can1 yu4 shuo1 shuo1 nin2 de5 kan4 fa3
+BZNSYP/mels/003577.pt|liu2 jian4 hua2 kai1 shi3 zhang1 luo5 wu3 fan4
+BZNSYP/mels/003626.pt|hou4 lai2 wo3 men5 you3 ren2 song4 lai2 shuan4 yang2 rou4 he2 guan4 chang2 ta1 cai2 chi1 qi3 lai2
+BZNSYP/mels/003675.pt|zheng4 shuang3 ting1 dao4 yao4 shang4 lou2 chou2 chu2 zhe5 bu4 qian2
+BZNSYP/mels/003724.pt|bai2 lu4 ying4 chun1 zhou1 qing1 long2 jian4 chao2 tun1
+BZNSYP/mels/003773.pt|zai4 kan4 jian4 ni3 yao4 fan4 jiu4 zou4 bian2 ni3
+BZNSYP/mels/003822.pt|ta1 duo2 dao4 jiao4 shi4 li3 jian4 zi4 ji3 zhuo1 mian4 shang4 jing4 tang3 le5 yi4 feng1 xin4 xin1 meng3 ran2 yi2 tiao4
+BZNSYP/mels/003871.pt|wang3 shang4 dao4 ban3 tai4 qi1 fu5 ren2 zuo4 jia1 men5 zhong1 yu2 nan2 ren3 bu4 ping2 yi4 sheng1 hou3 le5
+BZNSYP/mels/003920.pt|shen1 cai2 ai2 xiao3 de5 xiao3 lang2 zai3 di4 yi1 ci4 chi1 yang2 nai3 ke3 fei4 le5 jinr4
+BZNSYP/mels/003969.pt|bai4 zhe3 bu4 nei3 shi1 li4 de5 mai4 kai3 en1 he2 he4 ka2 bi3 bing4 bu4 ju3 sang4
+BZNSYP/mels/004018.pt|you3 shi2 hou4 wo3 zuo4 meng4 dou1 xiang3 tou2 ben4 ta1
+BZNSYP/mels/004067.pt|jia1 li3 hai2 you2 liang3 ge5 wa2 wa5 zai4 nian4 shu1 mei2 you3 ma1 ma5 zhi1 hou4 ta1 men5 hao2 ke3 lian2 o5
+BZNSYP/mels/004116.pt|si4 hu1 zhang4 wei4 da3 zi4 ji2 yi3 bei4 ju4 da4 de5 xin1 li3 ya1 li4 da2 kua3
+BZNSYP/mels/004165.pt|yi4 zhang1 luo4 mo4 de5 lian3 xiao1 rong2 zai4 xi1 yang2 li3
+BZNSYP/mels/004214.pt|tan2 ji2 bao2 yang3 mi4 jue2 an1 ya2 shou3 ci4 tou4 lu4 le5 zi4 ji3 de5 lan2 nv3 ren2 gong1 lve4
+BZNSYP/mels/004263.pt|kai1 xin1 kan4 biao2 yan3 zhong4 xing1 zou3 wan2 hong2 di4 tan3 zhi1 hou4 xu2 ruo4 xuan1 cai2 xian4 shen1
+BZNSYP/mels/004312.pt|jiao4 lian4 yi2 xia4 meng1 le5 kan4 zhe5 ta1 shuo1 bei3 jing1
+BZNSYP/mels/004361.pt|gu3 ge2 bao3 cun2 ji1 ben3 wan2 zheng3 fa4 zan1 he2 fa4 ji4 de5 yang4 shi4 yi1 xi1 ke3 jian4
+BZNSYP/mels/004410.pt|dang1 shi2 tang2 jia1 shan1 yan4 se4 hu2 sui2 shi2 dou1 you3 kui4 ba4 de5 ke3 neng2 yi4 qing2 de5 wei1 xie2 ye3 yue4 lai2 yue4 da4
+BZNSYP/mels/004459.pt|wo3 ting1 le5 dou1 kuai4 suan1 si3 le5
+BZNSYP/mels/004508.pt|xiao3 wen1 rou2 zui4 xi3 huan1 de5 ren2 shi4 lin2 ze2 nan2
+BZNSYP/mels/004557.pt|wang2 nv3 shi4 ci3 shi2 gan3 dao4 yan3 qian2 yi4 hei1 nao3 dai4 dun4 shi2 yun1 le5 qi3 lai2
+BZNSYP/mels/004606.pt|hai2 you3 wo3 kan4 dao4 hen3 duo1 qu1 xian4 dou1 ti2 dao4 yao4 fa1 zhan3 hong2 jiu2 chan3 ye4 rang4 nong2 min2 gai3 zhong4 pu2 tao5
+BZNSYP/mels/004655.pt|ni3 dui4 wai4 chu1 zu1 de5 shi4 da1 lian2 dao3 he2 xiao3 hao4 dao3
+BZNSYP/mels/004704.pt|ping2 zheng4 shi4 guo2 ku4 quan4 mai3 mai4 shi2 de5 li4 xi5 ru2 he2 ji4 suan4
+BZNSYP/mels/004753.pt|you4 na2 qi3 sao4 zhou5 da2 sao3 wei4 sheng1
+BZNSYP/mels/004802.pt|dan4 neng2 fou2 xie3 chu1 bu4 xiu3 zhi1 zuo4 ji4 yao4 you3 jing1 li4 you3 cai2 hua2 hai2 yao4 you3 yun4 qi4
+BZNSYP/mels/004851.pt|ka2 er2 fa3 ni2 ya4 ren4 wei2 jie1 tou2 mai4 yin2 shi4 ke2 chi3 de5 shi4 qing5
+BZNSYP/mels/004949.pt|er2 zi5 na4 ai4 di2 sheng1 de5 ba4 ba5 zen3 me5 bu4 fa1 ming2 dian4 deng1 ne5
+BZNSYP/mels/004998.pt|huang2 yi1 ran2 hun2 shen1 fa1 dou3 yi4 zhi2 han2 leng3
+BZNSYP/mels/005047.pt|qi2 qian2 yue4 fu4 jian4 zhuang4 shang4 qian2 qiang3 duo2 da2 huo3 ji1
+BZNSYP/mels/005096.pt|si4 nian2 qian2 cheng2 nan2 na4 pian4 ao1 tu1 bu4 ping2 za2 cao3 cong2 sheng1 de5 huang1 shan1 po1 bu2 jian4 le5
+BZNSYP/mels/005145.pt|zui4 jin4 ji3 ge5 yue4 zhong1 ta1 you3 shi2 yi4 tian1 ye3 zuo4 bu5 cheng2 yi4 zhuang1 mai3 mai5
+BZNSYP/mels/005194.pt|suo2 yi3 yi4 hai1 hai2 shi4 jue2 ding4 mei3 nian2 an4 zhao4 zi4 ji3 yu4 ce4 de5 su4 du4 lai2 kuo4 zhang1
+BZNSYP/mels/005243.pt|nv3 hai2 shou4 de5 shi4 mi2 man4 xing4 zhou2 suo2 sun3 shang1
+BZNSYP/mels/005292.pt|er2 ping2 guo3 deng2 zhi3 mei2 rong3 yuan2 ye3 bu4 shao3
+BZNSYP/mels/005341.pt|you3 ren2 ren4 wei2 xin1 wen2 ji2 tuan2 ning4 yuan4 lian2 jia4 shuai3 diao4 zhe4 ge5 bao1 fu5
+BZNSYP/mels/005390.pt|cai4 wei2 bin1 shi4 cheng2 du1 li4 kai2 shou3 xing4 ji4 shu4 you3 xian4 gong1 si1 yuan2 gu3 dong1 xiao1 shou4 jing1 li3
+BZNSYP/mels/005439.pt|bi2 zhe2 you3 ge5 shi4 hao4 ai4 kan4 you3 guan1 fan2 fu3 de5 wen2 zhang1
+BZNSYP/mels/005488.pt|na4 lv2 zi5 lai2 dao4 yi4 tou2 hao4 chi1 lan3 zuo4 de5 lv2 zi5 pang2 bian1
+BZNSYP/mels/005537.pt|zen3 neng2 liao4 li3 jun1 guo2 de5 hou4 shi4
+BZNSYP/mels/005586.pt|dan1 ren4 weng4 an1 xian4 zhang3 zhi1 qian2 xie4 xiao3 dong1 shi4 gui4 zhou1 sheng2 lv3 you2 ju2 zong1 he2 xie2 tiao2 chu4 chu4 zhang3
+BZNSYP/mels/005635.pt|zuo2 tian1 ji4 zhe3 cong2 long2 yan2 gong1 an1 ju2 liao2 jie3 dao4 xiang2 qing2
+BZNSYP/mels/005684.pt|tie3 guan4 shang4 fang2 le5 ren2 yingr3 you4 luo4 dao4 le5 di4 shang4
+BZNSYP/mels/005733.pt|qi1 zi3 de5 tong2 shi4 lai2 jia1 li3 zuo4 ke4 wo3 you4 shi4 zuo4 fan4 you4 shi4 shua1 wan3
+BZNSYP/mels/005782.pt|xi1 tu3 kai1 cai3 shi3 de2 zhang1 yang2 e2 jia1 yuan4 zi5 li3 de5 yi4 kou2 jing3 cheng2 wei2 bai3 she4
+BZNSYP/mels/005831.pt|ai4 wei1 er2 jie1 shou4 le5 cha2 de2 de5 qiu2 hun1 zuan4 jie4
+BZNSYP/mels/005880.pt|guo1 le4 ping2 ren4 wei2 zhe4 wan2 quan2 shi4 wu1 mie4
+BZNSYP/mels/005929.pt|sou3 zhong1 qiang2 diao4 shuo1 zhe4 yang4 zuo4 wei2 shi2 shang4 zao3 bu2 zan4 cheng2 ao4 ba1 ma2 fang3 wen4 zhe4 liang3 ge4 cheng2 shi4
+BZNSYP/mels/005978.pt|dui4 yu2 xue3 jia1 mi2 lai2 shuo1 zhei4 yang4 de5 ji1 hui4 ke3 shi4 meng4 mei4 yi3 qiu2 de5
+BZNSYP/mels/006027.pt|er2 qie3 zhe4 ci4 tian1 wen2 da4 chao2 shui3 wei4 te4 bie2 gao1 di1 ba4 hen3 wei1 xian3
+BZNSYP/mels/006076.pt|liu2 xian1 sheng5 chou2 zhun3 yi2 ge5 ji1 hui4 dui4 zhe5 gai1 jie2 fei3 de5 jiao3 gen1 qian2 kai1 le5 yi4 qiang1 jing3 gao4 ta1
+BZNSYP/mels/006125.pt|cong2 shi1 ti3 kan4 ta1 si3 qian2 zao1 dao4 dao1 ci4 du2 da3 he2 fen2 shao1
+BZNSYP/mels/006174.pt|fen1 he2 tao5 jian1 guo3 he2 tao5 jian1 guo3 ren2 he2 tao5 you2 he2 tao5 yin3 liao4
+BZNSYP/mels/006223.pt|hui4 yi4 hai2 qiang2 diao4 zong1 zhi4 bu4 men2 yao4 tong3 chou2 an1 pai2 gao2 hao2 zu3 zhi1 xie2 tiao2
+BZNSYP/mels/006272.pt|zui4 chu1 de5 chuang4 ye4 chong1 dong4 yuan2 yu2 ji3 nian2 qian2 de5 huan4 wu4 gai4 nian4
+BZNSYP/mels/006321.pt|nian4 de5 zhen1 hao3 ting1 gan3 mingr2 jiao1 jiao1 wo3
+BZNSYP/mels/006370.pt|zuo2 ri4 chen2 jing3 he2 yu3 zou1 lai2 chang1 dou1 yi3 jue2 ding4 fu2 cong2 chu3 fa2
+BZNSYP/mels/006419.pt|yan1 jiao1 ta4 shang4 ke1 xue2 fa1 zhan3 de5 xin1 zheng1 cheng2
+BZNSYP/mels/006468.pt|wei4 xi1 shi4 ning2 ren2 wu2 mou2 shuang3 kuai4 da1 ying4 le5
+BZNSYP/mels/006517.pt|shi4 fa1 di4 wei4 yu2 feng4 cheng2 zhen4 feng2 jia1 cun1 liu4 bai3 er4 shi2 liu4 hao4
+BZNSYP/mels/006566.pt|bao3 hu4 mian2 nong2 li4 yi4 zeng1 jia1 mian2 nong2 shou1 ru4 shi4 mian2 hua1 hong2 guan1 tiao2 kong4 de5 ji1 ben3 yuan2 ze2
+BZNSYP/mels/006615.pt|sui2 hou4 di4 fang1 gan4 bu4 dao4 zhong1 yang1 bu4 wei2 lv3 xin1 de5 bu4 fa2 jia1 kuai4
+BZNSYP/mels/006664.pt|zhe4 shi2 hu2 mou3 lv2 lv3 cui1 ta1 huan2 qian2
+BZNSYP/mels/006713.pt|dan4 guang3 da4 ren2 min2 qun2 zhong4 si4 hu1 bing4 wei4 ling3 qing2 yuan2 yin1 zai4 na3
+BZNSYP/mels/006762.pt|qi2 shi2 bao4 zhao4 de5 mi4 jue2 jiu4 zai4 yu2 zan2 lia3 liao2 de5 you3 duo1 huan1
+BZNSYP/mels/006811.pt|zhe4 ye3 zao1 dao4 you4 yi4 ren2 shi4 de5 peng1 ji1
+BZNSYP/mels/006860.pt|ling4 yi1 shi2 san1 sui4 gu3 xing4 shao4 nian2 zai4 shi4 gu4 zhong1 yu4 nan4
+BZNSYP/mels/006909.pt|wo3 shi4 shen2 deng1 ke2 yi2 man3 zu2 ni3 yi2 ge4 yuan4 wang4
+BZNSYP/mels/006958.pt|qian2 ren2 hao2 dui4 ci2 han3 yuan1 fou3 ren4 dang1 shi2 you3 xing4 sao1 rao2 nv3 lin2 yan3 qiang2 diao4 zhi3 shi4 wu4 hui4
+BZNSYP/mels/007007.pt|ni3 bu4 li2 wo3 de5 shi2 hou4 wo2 gan3 jue2 zi4 ji3 dou1 bei4 yu3 jiao1 tou4 le5
+BZNSYP/mels/007056.pt|liang3 zhi1 huang2 li2 ming2 cui4 liu3 ni3 hai2 mei2 you2 nv3 peng2 you5
+BZNSYP/mels/007105.pt|mian4 dui4 ji4 zhe3 men5 de5 yi2 zhi4 hao3 ping2 chen2 bin1 bo1 xiao4 yi4 ang4 ran2
+BZNSYP/mels/007154.pt|hai2 zi5 men5 he2 san1 xia2 gong1 cheng2 jian4 she4 zhe3 ka3 tong1 wa2 wa5 he2 ying3
+BZNSYP/mels/007203.pt|ta1 wan3 liu2 bu2 zhu4 zhi2 hao3 gen1 shang4 qu4
+BZNSYP/mels/007252.pt|xian1 na2 chu1 ni3 de5 cheng2 yi4 lai2
+BZNSYP/mels/007301.pt|fu4 zi2 lia3 niu2 da3 zai4 yi4 qi3
+BZNSYP/mels/007350.pt|wo2 gei3 fang2 zi5 zuo4 le5 ping2 gu1
+BZNSYP/mels/007399.pt|yu2 ci3 tong2 shi2 nie4 shu4 bin1 an4 ye3 yi4 zhi2 zheng4 zai4 diao4 cha2
+BZNSYP/mels/007448.pt|liang3 ren2 chao2 chao3 rang1 rang5 dao4 bai2 xia4 qu1 ren2 min2 mao2 dun4 tiao2 jie3 zhong1 xin1 ping2 li3
+BZNSYP/mels/007497.pt|ta1 tu1 ran2 che3 diao4 wo3 de5 er3 ji1 da4 sheng1 shuo1 wo3 yao4 la1 shi3 bie1 bu2 zhu4 le5 han2 ni3 ban4 tian1 le5
+BZNSYP/mels/007546.pt|fei1 chang2 jin3 zhang1 zou3 lu4 mei3 yi2 bu4 dou1 you2 dianr3 bie4 niu3
+BZNSYP/mels/007595.pt|zhe4 ge4 dian4 ying3 jiu4 shi4 yao4 tan4 xun2 ta1 de5 nei4 xin1 shi4 jie4 li2 wo3 men5 hen2 yuan3 de5 di4 fang1 zai4 na3
+BZNSYP/mels/007644.pt|bi3 de2 leng2 leng3 dao4 shui2 kan4 ni3 le5 wo3 zi4 ji3 ye2 you3 lian2 mi4 ma3 dou1 mei2 gai3 guo4
+BZNSYP/mels/007693.pt|shou3 shu4 zhong1 qie1 kai1 bing4 ren2 de5 tun2 bu4 jin4 xing2 xue4 zhong3 qing1 chu2 he2 shen2 jing1 jian3 ya1 qing1 chu2 le5 quan2 bu4 yu1 xue4
+BZNSYP/mels/007742.pt|you4 zou3 hui2 lai2 zuo4 zai4 wo2 zuo3 bian1 kai1 shi3 dui4 wo3 lou2 lou3 bao4 bao4
+BZNSYP/mels/007791.pt|sheng1 yi4 shi4 bu2 shi4 bi2 yi3 qian2 hao2 hen3 duo1
+BZNSYP/mels/007840.pt|ru2 jin1 tiao4 zao5 bian4 de5 hen2 xiao3
+BZNSYP/mels/007889.pt|an4 fa1 hou4 lv2 mou3 cang1 huang2 tao2 zou3
+BZNSYP/mels/007938.pt|mu4 qian2 luo4 yang2 ba1 liu4 san1 ruan3 jian4 fu1 hua4 qi4 xiang4 mu4 yi3 jin4 zhu4
+BZNSYP/mels/007987.pt|ta1 mei2 mao5 shu4 qi3 lai2 shuang1 bi4 hu4 bao4 ju4 jue2 bie2 ren2 kao4 jin4
+BZNSYP/mels/008036.pt|ben2 wang3 dian4 hua4 ba1 ling2 ba1 ba1 jiu3 yao1 ba1 er4
+BZNSYP/mels/008085.pt|wei4 le5 mi2 bu3 ju4 e2 kui1 kong1 deng4 sheng4 tang2 qu1 jin3 ming2 kai1 shi3 shi2 shi1 zha4 pian4
+BZNSYP/mels/008134.pt|ru2 jin1 fu1 qi1 er4 ren2 jun1 xu1 zhu4 yuan4 guai1 guai1 cheng2 le5 ji2 xu1 hao3 xin1 ren2 shou1 yang3 de5 gu1 er2
+BZNSYP/mels/008183.pt|bu2 guo4 dui4 yu2 da4 duo1 shu4 pin3 pai2 er2 yan2 zhe4 reng2 ran2 shi4 zui4 wen2 tuo3 de5 zuo4 fa3
+BZNSYP/mels/008232.pt|lian2 bang1 jing3 cha2 yi3 zhen1 dui4 zhe4 yi2 xi4 lie4 shi4 jian4 zhan3 kai1 diao4 cha2
+BZNSYP/mels/008281.pt|you2 ta1 zhi4 zuo4 de5 dian4 shi4 ju4 yong1 zheng4 wang2 chao2 ceng2 huo4 zhong1 guo2 dian4 shi4 ju4 zui4 gao1 san1 da4 jiang3 xiang4
+BZNSYP/mels/008330.pt|hai2 you3 si4 fen1 zhi1 yi1 de5 ren2 shen4 zhi4 mei2 you3 an4 chu3 fang1 zhua1 yao4 zhi4 bing4
+BZNSYP/mels/008379.pt|qi1 zi3 bu2 dan4 bu2 pa4 fan3 er2 rou2 qing2 de5 shuo1 mao1 ge1 bie2 jiao4 le5 wo2 lao3 gong1 hai2 mei2 chu1 chai1 ne5
+BZNSYP/mels/008428.pt|zhe4 bei4 kan4 zuo4 shi4 fei1 meng2 yu3 lian2 he2 guo2 wo4 xuan2 gai1 guo2 zheng4 zhi4 jiang1 ju2 de5 yi2 da4 cheng2 guo3
+BZNSYP/mels/008477.pt|ding1 zi3 gao1 hai2 zi4 bao4 biao2 jie3 song4 le5 liang3 zhi1 bu4 tong2 pai2 zi5 de5 yan4 yun4 bang4 gei3 ta1
+BZNSYP/mels/008526.pt|zhe4 shi4 yi4 zhuang1 fei1 xing2 yun4 dong4 shou3 ci4 deng1 lu4 zhong1 guo2
+BZNSYP/mels/008575.pt|ta1 zhou1 ri4 zai4 wang3 shang4 fa1 xin4 xi1 hu1 yu4 pi1 ping2 zhe3 rang4 ha1 li3 chuan2 chuan3 qi4
+BZNSYP/mels/008624.pt|ta1 bu2 hui4 xie3 zi4 yu2 shi4 jiu4 en4 le5 shou3 yin4
+BZNSYP/mels/008673.pt|xian4 zai4 shi4 lian2 wo2 ben3 ren2 ye2 mo3 diao4 le5
+BZNSYP/mels/008722.pt|wu2 xiu4 bo1 dao4 di3 shi4 shui2
+BZNSYP/mels/008771.pt|de2 te4 le4 fu1 dui4 zhi3 kong4 gong4 ren4 bu2 hui4
+BZNSYP/mels/008820.pt|qian2 men2 di4 qu1 hai2 shi4 lao2 bei3 jing1 shi4 jing3 feng1 mao4 shi3 ji4 wen2 wu4 bao3 cun2 zui4 wan2 zheng3 de5 di4 qu1 zhi1 yi1
+BZNSYP/mels/008869.pt|wang3 shang4 de5 dian4 jia1 cheng1 ta1 men5 xiao1 shou4 de5 nai2 fen3 shi4 gang2 ban3 dai4 gou4
+BZNSYP/mels/008918.pt|you3 de5 liu2 lang4 gou3 chi1 wan2 dong1 xi5 hou4 hai2 hui4 tian2 tian3 wei4 shi2 ren2 de5 shou3 yi2 biao3 shi4 gan3 xie4
+BZNSYP/mels/008967.pt|bei3 jing1 jing1 xi1 bin1 guan3 hua2 deng1 cui3 can4 yang2 yi4 zhe5 huan1 qing4 xiang2 he2 de5 qi4 fen1
+BZNSYP/mels/009016.pt|wei4 le5 duo1 zheng4 ji3 ge4 fa3 lang2 ta1 mei3 zhou1 chao1 fu4 he4 de5 gong1 zuo4
+BZNSYP/mels/009065.pt|qi4 jin1 wei2 zhi3 ta1 reng2 ran2 bi3 geng1 bu2 chuo4
+BZNSYP/mels/009114.pt|xiao3 zheng4 biao2 jie3 jiu4 zai4 zhong1 qiu1 jie2 zhao3 dao4 po2 jia1 de5
+BZNSYP/mels/009163.pt|she4 zai4 he2 dao4 zhong1 yang1 de5 shai1 xi2 dian3
+BZNSYP/mels/009212.pt|jing3 cha2 jiang1 jin2 xi3 song4 hui2 jia1 dan4 jue2 jiang4 de5 wu2 hai3 nan2 bu2 yuan4 yi4 kai1 men2
+BZNSYP/mels/009261.pt|gui2 shi3 shen2 chai1 zhe4 ci4 a1 bing1 na2 chu1 le5 zhen1 shi2 shen1 fen4 zheng4 yong4 yu2 deng1 ji4
+BZNSYP/mels/009310.pt|nan2 jing1 xian4 zai4 ji2 hou2 hou3 yao4 chai1 bao4 ting2 cheng2 shi4 guan2 li2 zhe3 de5 shui3 ping2 rang4 ren2 bu4 gan3 gong1 wei2
+BZNSYP/mels/009359.pt|gai1 dian4 shi4 ming2 ma3 shi2 jia4 ye3 ti2 gong1 bu4 tong2 you1 hui4 jing1 ming2 de5 xiao1 fei4 zhe2 dong3 de2 xuan3 ze2
+BZNSYP/mels/009408.pt|teng2 tong4 nan2 ren3 de5 wang2 dan1 dan1 sui2 ji2 ye3 tang2 dao3 zai4 di4
+BZNSYP/mels/009457.pt|kang4 yi4 shi4 wei1 zhe3 sheng1 cheng1 jiang1 jie3 fang4 shou3 du1 di2 li2 bo1 li3
+BZNSYP/mels/009506.pt|zhe4 zhong3 chang2 cheng2 xun2 yi4 fei1 dan4 de5 mu4 biao1 shi4 dui4 zhun2 na3 ge4 guo2 jia1
+BZNSYP/mels/009555.pt|ci3 hou4 zai4 xi1 zang4 hui1 fu4 jiu4 you3 de5 feng1 jian4 nong2 nu2 zhi4 du4 ye3 cheng2 wei2 yong2 yuan3 bu4 ke3 neng2
+BZNSYP/mels/009604.pt|san1 sui4 na4 nian2 he2 hen3 duo1 xiao3 peng2 you5 yi2 yang4 xiao3 qi2 xi3 huan5 shang4 le5 yao3 shou2 zhi3
+BZNSYP/mels/009653.pt|liu2 xian1 sheng5 gan1 ga4 de5 xiao4 le5 xiao4 jiang1 yan1 shou1 le5 hui2 qu4
+BZNSYP/mels/009702.pt|ji1 fen1 yi3 fen1 wei2 dan1 wei4 mei3 ci4 jin4 ru4 zhang4 hu4 shi2 an4 si4 she2 wu3 ru4 gui1 ze2 qu2 zheng3 ji4 suan4
+BZNSYP/mels/009751.pt|dui4 yu2 bi3 sai4 zhong1 de5 cu1 ye2 chang3 mian4 bu4 lun2 dan1 ren4 wei2 bi3 sai4 ji1 lie4 ke2 yi3 li2 jie3
+BZNSYP/mels/009849.pt|di4 er4 tian1 you3 er4 bai3 ling2 san1 jia1 chang3 fang2 he2 ba1 bai3 ling2 wu3 jia1 shang1 pu4 bei4 ding4 gou4
+BZNSYP/mels/009898.pt|zan2 men5 mu4 min2 qun2 zhong4 te4 bie2 re4 xin1 te4 bie2 hao4 ke4 fei1 chang2 shan4 liang2
+BZNSYP/mels/009947.pt|zuo2 wan3 hua2 xi1 du1 shi4 bao4 ji4 zhe3 dian4 hua4 cai2 fang3 le5 yin3 qi2
+BZNSYP/mels/009996.pt|ling4 yi4 nan2 zi3 pu1 le5 shang4 lai5 shou2 li3 na2 zhe5 ming2 huang4 huang4 de5 chang2 dao1 xiang4 ta1 xiong1 kou3 zhi2 ci4

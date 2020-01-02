@@ -147,8 +147,7 @@ def prepare_input_sequence(texts):
 
     d = []
     for i,text in enumerate(texts):
-        d.append(torch.IntTensor(
-            text_to_sequence(text, ['english_cleaners'])[:]))
+        d.append(torch.IntTensor(text_to_sequence(text, ['transliteration_cleaners'])[:]))
 
     text_padded, input_lengths = pad_sequences(d)
     if torch.cuda.is_available():
@@ -221,7 +220,9 @@ def main():
     tacotron2 = load_and_setup_model('Tacotron2', parser, args.tacotron2, args.amp_run)
     waveglow = load_and_setup_model('WaveGlow', parser, args.waveglow, args.amp_run)
 
-    texts = ["The forms of printed letters should be beautiful, and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves. The forms of printed letters should be beautiful, and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves."]
+    # texts = ["The forms of printed letters should be beautiful, and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves. The forms of printed letters should be beautiful, and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves."]
+    # texts = ["chang2 cheng2 shi4 gu3 dai4 zhong1 guo2 zai4 bu4 tong2 shi2 qi1 wei4 di3 yu4 sai4 bei3 you2 mu4 bu4 luo4 qin1 xi2 er2 xiu1 zhu4 de5 gui1 mo2 hao4 da4 de5 jun1 shi4 gong1 cheng2"]
+    texts = ["chang2 cheng2 shi4 gu3 dai4 zhong1 guo2"]
     texts = [texts[0][:args.input_length]]
     texts = texts*args.batch_size
 
